@@ -66,7 +66,7 @@
 	<security:authentication-manager>
 		<security:authentication-provider >
 			<security:user-service >
-				<security:user name="sercan" password="199144" authorities="admin" />
+				<security:user name="ismekwebservis" password="fineor7cip4you" authorities="admin" />
 			</security:user-service>
 		</security:authentication-provider>
 		
